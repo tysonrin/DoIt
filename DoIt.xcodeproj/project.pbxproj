@@ -14,6 +14,7 @@
 		8F88F4351E05C2C600B5924F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F88F4341E05C2C600B5924F /* Assets.xcassets */; };
 		8F88F4381E05C2C600B5924F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F88F4361E05C2C600B5924F /* LaunchScreen.storyboard */; };
 		8F88F4401E08A9D200B5924F /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F88F43F1E08A9D200B5924F /* Task.swift */; };
+		8F88F4421E08B8F700B5924F /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F88F4411E08B8F700B5924F /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8F88F4371E05C2C600B5924F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F88F4391E05C2C600B5924F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F88F43F1E08A9D200B5924F /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		8F88F4411E08B8F700B5924F /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8F88F42C1E05C2C600B5924F /* ViewController.swift */,
 				8F88F43F1E08A9D200B5924F /* Task.swift */,
 				8F88F42E1E05C2C600B5924F /* Main.storyboard */,
+				8F88F4411E08B8F700B5924F /* CreateTaskViewController.swift */,
 				8F88F4341E05C2C600B5924F /* Assets.xcassets */,
 				8F88F4361E05C2C600B5924F /* LaunchScreen.storyboard */,
 				8F88F4391E05C2C600B5924F /* Info.plist */,
@@ -146,6 +149,7 @@
 				8F88F4331E05C2C600B5924F /* DoIt.xcdatamodeld in Sources */,
 				8F88F42D1E05C2C600B5924F /* ViewController.swift in Sources */,
 				8F88F42B1E05C2C600B5924F /* AppDelegate.swift in Sources */,
+				8F88F4421E08B8F700B5924F /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
